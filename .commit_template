@@ -1,8 +1,9 @@
 # ==== Prefix ====
 # add         新規機能・ファイル追加
 # rename      ファイル名の変更
-# docs        ドキュメントのみ修正
+# update      内容追加・変更
 # style       スタイルの修正
+# docs        ドキュメントのみ修正
 # fix         バグ修正
 # clean       整理
 # disable     コメントアウト等
@@ -10,7 +11,7 @@
  
 # ==== Emojis ====
 # :zap:         ファイル追加(add)
-# :sparkles:    テキスト・コード追加 (add)
-# :bug:         バグ修正 (fix)
-# :+1:          機能改善 (fix/feat)
+# :sparkles:    テキスト・コード追加 (update)
+# :wrench:      ファイル名やスタイルの修正・変更 (fix/clean)
 # :note:        ドキュメント修正 (docs)
+# :bug:         バグ修正 (fix)
